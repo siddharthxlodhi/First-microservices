@@ -2,7 +2,6 @@ package com.sid;
 
 import com.sid.inventory_service.model.Inventory;
 import com.sid.inventory_service.repository.InventoryRepository;
-import com.sid.inventory_service.service.InventoryService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

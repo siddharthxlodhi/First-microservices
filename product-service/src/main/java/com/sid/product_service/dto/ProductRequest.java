@@ -1,6 +1,5 @@
 package com.sid.product_service.dto;
 
-import com.sid.product_service.model.Product;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

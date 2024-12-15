@@ -1,6 +1,5 @@
 package com.sid.order_service.Dto;
 
-import com.sid.order_service.model.OrderLineItems;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
